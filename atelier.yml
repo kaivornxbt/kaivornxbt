@@ -1,0 +1,36 @@
+# Readme Atelier: edit this file, commit, and your profile rebuilds itself.
+# Themes: minimal · y2k · minecraft · terminal · pixel · garden
+# Docs: https://github.com/monokernn/readme-atelier#config
+
+username: kaivornxbt
+name: Kaivorn
+theme: pixel
+tagline: one desk so the candle doesn't wait on chrome
+about:
+  - tabtax — five tabs bleed the bag, one desk keeps the print
+  - animated html terminals for pump.fun rounds
+  - ship the clip, not another dashboard tab
+  - usually on x as @kaivornxbt
+stack:
+  - html
+  - typescript
+  - javascript
+  - nextdotjs
+  - python
+  - nodedotjs
+  - vercel
+  - figma
+socials:
+  x: kaivornxbt
+  github: kaivornxbt
+repos:
+  - tabtax
+sections:
+  - header
+  - socials
+  - stats
+  - activity
+  - repos
+  - stack
+  - footer
+accent: "#0033ff"

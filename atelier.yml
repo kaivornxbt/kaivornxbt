@@ -1,4 +1,4 @@
-# Readme Atelier: edit this file, commit, and your profile rebuilds itself.
+﻿# Readme Atelier: edit this file, commit, and your profile rebuilds itself.
 # Themes: minimal · y2k · minecraft · terminal · pixel · garden
 # Docs: https://github.com/monokernn/readme-atelier#config
 
@@ -7,10 +7,10 @@ name: Kaivorn
 theme: pixel
 tagline: one desk so the candle doesn't wait on chrome
 about:
-  - tabtax — five tabs bleed the bag, one desk keeps the print
+  - tabtax - five tabs bleed the bag, one desk keeps the print
+  - deadair - fader to zero before the plug pull
   - animated html terminals for pump.fun rounds
   - ship the clip, not another dashboard tab
-  - usually on x as @kaivornxbt
 stack:
   - html
   - typescript
@@ -25,6 +25,7 @@ socials:
   github: kaivornxbt
 repos:
   - tabtax
+  - deadair
 sections:
   - header
   - socials

@@ -17,6 +17,7 @@
 
 <p align="center">
   <a href="https://github.com/kaivornxbt/tabtax"><img src="./atelier/repo-1.svg" width="49%" alt="tabtax"/></a>
+  <a href="https://github.com/kaivornxbt/deadair"><img src="./atelier/repo-2.svg" width="49%" alt="deadair"/></a>
 </p>
 
 <p align="center"><img src="./atelier/stack.svg" width="100%" alt="Tech stack"/></p>

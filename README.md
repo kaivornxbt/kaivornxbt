@@ -13,7 +13,7 @@
   <img src="./atelier/languages.e0673572.svg" width="49%" alt="Top languages"/>
 </p>
 
-<p align="center"><img src="./atelier/activity.65e44603.svg" width="100%" alt="Contribution activity"/></p>
+<p align="center"><img src="./atelier/activity.d81552d9.svg" width="100%" alt="Contribution activity"/></p>
 
 <p align="center">
   <a href="https://github.com/kaivornxbt/tabtax"><img src="./atelier/repo-1.f51011c6.svg" width="49%" alt="tabtax"/></a>
@@ -23,6 +23,6 @@
 
 <p align="center"><img src="./atelier/stack.95b5a3d7.svg" width="100%" alt="Tech stack"/></p>
 
-<p align="center"><img src="./atelier/footer.a494dff7.svg" width="100%" alt="Footer"/></p>
+<p align="center"><img src="./atelier/footer.56f8d5fc.svg" width="100%" alt="Footer"/></p>
 
 <!-- readme-atelier:end -->
